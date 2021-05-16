@@ -12,6 +12,7 @@ mka bacon
 
 #Trrigered Zone
 202105161030
+202105161140
 
 # upload rom
 rclone copy out/target/product/mojito/crDroid*.zip cirrus:mojito -P
